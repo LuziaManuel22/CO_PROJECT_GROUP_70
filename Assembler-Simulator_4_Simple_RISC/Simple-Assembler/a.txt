@@ -1,0 +1,16 @@
+mul R3 R1 R2
+div R5 R6 R3
+
+
+sidd R1 R2 R3
+mul R4 R5 R6
+div R1 R2 R3
+
+hlt
+xor R4 R5 r6
+or  R0 R1 R2
+
+
+and R3 R4 R5
+
+hlt
